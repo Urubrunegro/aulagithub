@@ -9,3 +9,7 @@ git branch -M main
 git remote add origin git@github.com:Urubrunegro/<repositorio>.git
 
 git push -u origin main
+
+git log
+
+git log --oneline
